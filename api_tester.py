@@ -2,9 +2,9 @@ import fire
 import requests
 
 API_HOST = "http://localhost:8000"
-RESOURCE_URI = "things"
-USERNAME = "admin"
-PASSWORD = "admin"
+RESOURCE_URI = "cookie_stands"
+USERNAME = "adham"
+PASSWORD = "adham12345"
 
 
 class ApiTester:
